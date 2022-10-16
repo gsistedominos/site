@@ -1,4 +1,5 @@
   <?php
+if($isset($_POST['submit']))
   //Variáveis
   $nome = $_POST['nome'];
   $email = $_POST['email'];
